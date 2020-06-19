@@ -1,4 +1,4 @@
-# Simple_question_answering
+# Simple question answering
 1. Quantitative Evaluation Result
 
 | Metric | Exact match | F1 score |
